@@ -1,0 +1,17 @@
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\bin\Debug\CalculadoraFracciones.exe.config
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\bin\Debug\CalculadoraFracciones.exe
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\bin\Debug\CalculadoraFracciones.pdb
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\bin\Debug\CalculadoraFracciones.xml
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.vbproj.AssemblyReference.cache
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.DiferenciaControl.resources
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.Form1.resources
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.Resources.resources
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.SumaControl.resources
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.vbproj.GenerateResource.cache
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.vbproj.CoreCompileInputs.cache
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.exe
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.xml
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.pdb
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.ProductoControl.resources
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.DivisionControl.resources
+J:\ARCHIVOS\dev\dotNet\CalculadoraFracciones\obj\Debug\CalculadoraFracciones.ArrayControl.resources

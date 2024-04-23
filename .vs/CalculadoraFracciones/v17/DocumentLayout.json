@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\arraycontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:arraycontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\arraycontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:arraycontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\sumacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:sumacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\sumacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:sumacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\divisioncontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:divisioncontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\divisioncontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:divisioncontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\diferenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:diferenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\productocontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:productocontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\diferenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:diferenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\sumacontrol.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:sumacontrol.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|j:\\archivos\\dev\\dotnet\\calculadorafracciones\\productocontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D28C02A2-B707-40BF-9BF8-7C5C33668948}|CalculadoraFracciones.vbproj|solutionrelative:productocontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SumaControl.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\SumaControl.vb",
+              "RelativeDocumentMoniker": "SumaControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\SumaControl.vb",
+              "RelativeToolTip": "SumaControl.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T08:34:38.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayControl.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ArrayControl.vb",
+              "RelativeDocumentMoniker": "ArrayControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ArrayControl.vb",
+              "RelativeToolTip": "ArrayControl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:58:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayControl.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ArrayControl.vb",
+              "RelativeDocumentMoniker": "ArrayControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ArrayControl.vb [Design]",
+              "RelativeToolTip": "ArrayControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:54:42.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DivisionControl.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DivisionControl.vb",
+              "RelativeDocumentMoniker": "DivisionControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DivisionControl.vb",
+              "RelativeToolTip": "DivisionControl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:36:25.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DivisionControl.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DivisionControl.vb",
+              "RelativeDocumentMoniker": "DivisionControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DivisionControl.vb [Design]",
+              "RelativeToolTip": "DivisionControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:33:27.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiferenciaControl.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DiferenciaControl.vb",
+              "RelativeDocumentMoniker": "DiferenciaControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DiferenciaControl.vb",
+              "RelativeToolTip": "DiferenciaControl.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T22:54:41.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T22:18:00.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SumaControl.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\SumaControl.vb",
+              "RelativeDocumentMoniker": "SumaControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\SumaControl.vb [Design]",
+              "RelativeToolTip": "SumaControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T22:28:22.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwEYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:07:57.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoControl.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ProductoControl.vb",
+              "RelativeDocumentMoniker": "ProductoControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ProductoControl.vb",
+              "RelativeToolTip": "ProductoControl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:18:54.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiferenciaControl.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DiferenciaControl.vb",
+              "RelativeDocumentMoniker": "DiferenciaControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\DiferenciaControl.vb [Design]",
+              "RelativeToolTip": "DiferenciaControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T22:51:25.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SumaControl.Designer.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\SumaControl.Designer.vb",
+              "RelativeDocumentMoniker": "SumaControl.Designer.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\SumaControl.Designer.vb",
+              "RelativeToolTip": "SumaControl.Designer.vb",
+              "ViewState": "AQIAALcAAAAAAAAAAAAEwMwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T22:39:16.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoControl.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ProductoControl.vb",
+              "RelativeDocumentMoniker": "ProductoControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\CalculadoraFracciones\\ProductoControl.vb [Design]",
+              "RelativeToolTip": "ProductoControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:16:51.971Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
